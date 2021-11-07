@@ -1,0 +1,18 @@
+######################################################################
+
+Base2d project describes elementary 2d primitives: point, line, circle 
+
+######################################################################
+
+1. Create or update a cmake cache entry
+    cmake -DCMAKE_BUILD_TYPE=Release <CMakeLists file path>
+    #For me
+    #cmake -DCMAKE_BUILD_TYPE=Release .//..
+
+2. Build project
+    make
+    
+3. Run project
+    ./b2d
+
+######################################################################

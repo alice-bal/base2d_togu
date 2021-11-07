@@ -1,0 +1,3 @@
+/home/alice/prj/base2d_togu/build/CMakeFiles/edit_cache.dir
+/home/alice/prj/base2d_togu/build/CMakeFiles/rebuild_cache.dir
+/home/alice/prj/base2d_togu/build/CMakeFiles/b2d.dir

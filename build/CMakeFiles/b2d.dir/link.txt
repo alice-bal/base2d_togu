@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/b2d.dir/src/main.cpp.o CMakeFiles/b2d.dir/src/2dprimitive.cpp.o CMakeFiles/b2d.dir/src/point2d.cpp.o CMakeFiles/b2d.dir/src/circle2d.cpp.o CMakeFiles/b2d.dir/src/line2d.cpp.o  -o b2d 
